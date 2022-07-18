@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Rodillo",
+    "price": "433",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/random-set-1/492/Asset_74-128.png",
+    "id": 15
+  },
+  {
+    "title": "Tornillos",
+    "price": "55",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/random-set-1/432/Asset_80-128.png",
+    "id": 16
+  },
+  {
+    "title": "Lentes re copados",
+    "price": "10020202",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/80-s-stuffs-outline/79/Asset_13-128.png",
+    "id": 17
+  },
+  {
+    "title": "Martillo",
+    "price": "433",
+    "thumbnail": "https://images.rappi.com.ar/products/1925549-1611692440278.png?d=200x200&?d=1920xundefined&e=webp",
+    "id": 18
+  }
+]
